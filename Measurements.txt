@@ -1,10 +1,38 @@
+For loop
+
 set count = 0
 for count < 15
 print count
 count += 1
 Print "Enter a measurement"
 input measurement
-convert measurements
-display results
+convert measurements sum = measurement * 25.4
+print sum
 End for
-All counts display
+All results display
+
+DoWhile
+
+set count = 0
+do 
+count += 1
+convert measurements 
+sum = measurment * 25.4
+print sum
+while (count < 15)
+
+While
+
+set count = 0
+while count < 15
+count += 1
+sum = measurment * 25.4
+print sum
+
+
+
+
+
+
+
+
