@@ -1,0 +1,10 @@
+set count = 0
+for count < 15
+print count
+count += 1
+Print "Enter a measurement"
+input measurement
+convert measurements
+display results
+End for
+All counts display
